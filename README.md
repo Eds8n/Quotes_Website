@@ -46,10 +46,7 @@ Lancer le serveur :
 Bash
 node server.js
 
-![Quotes Website Preview](https://raw.githubusercontent.com/Eds8n/Quotes_Website/main/Presentation-quotes-website.png)
-
----
-
 ## 🎥 Project Demo
 
-[![Watch the demo](https://raw.githubusercontent.com/Eds8n/Quotes_Website/main/Presentation-quotes-website.png)](https://github.com/Eds8n/Quotes_Website/blob/main/presentation-projet-quotes-website-v02.mp4)
+![Quotes Website Preview](https://raw.githubusercontent.com/Eds8n/Quotes_Website/main/Presentation-quotes-website.png)
+
