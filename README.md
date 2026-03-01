@@ -45,3 +45,5 @@ Lancer le serveur :
 
 Bash
 node server.js
+
+![image alt](https://github.com/Eds8n/Quotes_Website/blob/da3577b664432dd2d27a9a11d4e9e581aa798da5/Presentation-quotes-website.png))
